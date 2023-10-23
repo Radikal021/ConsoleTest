@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml;
+﻿
+using Newtonsoft.Json;
 
 namespace ConsoleTest
 {
@@ -11,12 +7,7 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-
-            int alli = 110;
-
+          
         }
-
     }
 }
-    
-
