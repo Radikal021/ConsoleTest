@@ -6,7 +6,8 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-         
+            int age = 0;
         }
+
     }
 }
