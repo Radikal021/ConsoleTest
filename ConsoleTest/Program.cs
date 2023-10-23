@@ -7,7 +7,8 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-         int a;
+           int a;
+            int a;
         }
     }
 }
